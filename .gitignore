@@ -1,0 +1,8 @@
+
+venv/
+# Ignorar archivos de compilación de Python
+__pycache__/
+*.pyc
+*.pyo
+# Ignorar archivos de configuración del sistema
+Thumbs.db  
